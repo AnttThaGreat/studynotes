@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "39bb80ac49c01f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c027d87a894570d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd4aba0c80bd1afc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Z.Images/Pasted image 20230528132342.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f35b6d03f11df1fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4f413fbb76d1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a640da6a8b07a436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85fcf5cfd7f7020b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0eb4965251bc0a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e691e6cd1b6891ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "806c87340e98c30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258230ca46e74198",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z.Images/Pasted image 20230528132342.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c894ec58ca5b43c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Z.Images/Pasted image 20230528132342.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b84bf067ea38ef2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fccc0a57176e3bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z.Images/Pasted image 20230528132342.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd4aba0c80bd1afc",
+  "lastOpenFiles": [
+    "README.md.md",
+    "README.md",
+    "Z.Images/Pasted image 20230528132342.png",
+    "Untitled",
+    "Ethical Hacking/5.Common Ports & Protocols.md",
+    "Z.Images",
+    "Ethical Hacking/4.TCP, UDP , 3  layer handshake.md",
+    "Ethical Hacking/3.MAC Addresses.md",
+    "Ethical Hacking/2.IP Addresses.md",
+    "Ethical Hacking/1.Introduction.md",
+    "Linux Basics  LLTV/Bash/Variables.md",
+    "Linux Basics  LLTV/Bash/Basic Math.md",
+    "Linux Basics  LLTV/Bash/If Statements.md",
+    "Basics/Linux/Untitled.md",
+    "Linux Basics  LLTV/Bash",
+    "Basics/Untitled.md",
+    "Linux Basics  LLTV/Linux",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "Ethical Hacking",
+    "Linux Basics  LLTV",
+    "999 Templates",
+    "Untitled 1.canvas",
+    "2023-05-25.md",
+    "Untitled.canvas",
+    "text docs/Untitled.md",
+    "Homelab.md"
+  ]
+}
