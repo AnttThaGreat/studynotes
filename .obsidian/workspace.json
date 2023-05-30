@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4c027d87a894570d",
+        "id": "24c368f50423e2bb",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4aba0c80bd1afc",
+            "id": "6bca4d23fd325049",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Z.Images/Pasted image 20230528132342.png"
+                "file": "Ethical Hacking/6.OSI Model.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z.Images/Pasted image 20230528132342.png",
+                "file": "Ethical Hacking/6.OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z.Images/Pasted image 20230528132342.png",
+                "file": "Ethical Hacking/6.OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z.Images/Pasted image 20230528132342.png"
+                "file": "Ethical Hacking/6.OSI Model.md"
               }
             }
           }
@@ -144,21 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd4aba0c80bd1afc",
+  "active": "6bca4d23fd325049",
   "lastOpenFiles": [
+    "Ethical Hacking/5.Common Ports & Protocols.md",
+    "Ethical Hacking/6.OSI Model.md",
+    "Linux Basics  LLTV/Bash/5.While loops.md",
+    "Linux Basics  LLTV/Bash/4.Exit codes.md",
+    "Linux Basics  LLTV/Bash/3.If Statements.md",
+    "Linux Basics  LLTV/Bash/2.Variables.md",
+    "Linux Basics  LLTV/Bash/1.Basic Math.md",
+    "Z.Images/Pasted image 20230528132342.png",
     "README.md.md",
     "README.md",
-    "Z.Images/Pasted image 20230528132342.png",
     "Untitled",
-    "Ethical Hacking/5.Common Ports & Protocols.md",
     "Z.Images",
     "Ethical Hacking/4.TCP, UDP , 3  layer handshake.md",
     "Ethical Hacking/3.MAC Addresses.md",
     "Ethical Hacking/2.IP Addresses.md",
     "Ethical Hacking/1.Introduction.md",
-    "Linux Basics  LLTV/Bash/Variables.md",
-    "Linux Basics  LLTV/Bash/Basic Math.md",
-    "Linux Basics  LLTV/Bash/If Statements.md",
     "Basics/Linux/Untitled.md",
     "Linux Basics  LLTV/Bash",
     "Basics/Untitled.md",
